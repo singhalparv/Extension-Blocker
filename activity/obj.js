@@ -1,9 +1,9 @@
-let obj = {
+let object = {
     name: "Parv"
 }
 
-obj.lastName = "Singhal";
-console.log(obj);
-function updateObj(){
+object.lastName = "Singhal";
+console.log(object);
+function updateObject(){
     
 }
